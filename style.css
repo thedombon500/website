@@ -1,0 +1,33 @@
+body { 
+    font-family: 'Courier New', Courier, monospace; 
+    color: blanchedalmond;
+    background-color: #36454f;    
+    /* background-image: url("background.png"); */
+}
+
+h1 {
+    font-family: glitch, 'Courier New', Courier, monospace;
+    font-size: 120px;
+    text-align: center;
+}
+
+#links {
+    font-size: 22px;
+    text-align: center;
+}
+
+@font-face {
+    font-family: glitch;
+    src: url(GlitchGoblin-2O87v.ttf);
+}
+
+div {
+    border: 2px solid blanchedalmond;
+    border-radius: 10px;
+    font-size: 24px;
+}
+
+a:link, a:visited {
+    color: blanchedalmond;
+    text-decoration: none;
+  }

@@ -2,7 +2,6 @@ body {
     font-family: 'Courier New', Courier, monospace; 
     color: blanchedalmond;
     background-color: #36454f;    
-    /* background-image: url("background.png"); */
 }
 
 h1 {
@@ -31,3 +30,8 @@ a:link, a:visited {
     color: blanchedalmond;
     text-decoration: none;
   }
+
+img {
+    border-radius: 8px;
+    
+}
